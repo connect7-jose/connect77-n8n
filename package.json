@@ -1,0 +1,13 @@
+{
+  "name": "connect7-n8n",
+  "version": "1.0.0",
+  "description": "n8n instance for Connect7 with WhatsApp, Trello, Google Sheets integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "n8n",
+    "build": "echo Build step not required for n8n"
+  },
+  "dependencies": {
+    "n8n": "^1.46.0"
+  }
+}
